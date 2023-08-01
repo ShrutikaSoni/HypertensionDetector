@@ -1,0 +1,1026 @@
+﻿age,sex,chest_pain_type,resting_blood_pressure,cholestoral,rest_ecg,Max_heart_rate,exercise_induced_angina,target
+52,Male,Typical angina,125,212,ST-T wave abnormality,168,No,No Hypertensation
+53,Male,Typical angina,140,203,Normal,155,Yes,No Hypertensation
+70,Male,Typical angina,145,174,ST-T wave abnormality,125,Yes,No Hypertensation
+61,Male,Typical angina,148,203,ST-T wave abnormality,161,No,No Hypertensation
+62,Female,Typical angina,138,294,ST-T wave abnormality,106,No,No Hypertensation
+58,Female,Typical angina,100,248,Normal,122,No,YES Hypertensation
+58,Male,Typical angina,114,318,Left ventricular hypertrophy,140,No,No Hypertensation
+55,Male,Typical angina,160,289,Normal,145,Yes,No Hypertensation
+46,Male,Typical angina,120,249,Normal,144,No,No Hypertensation
+54,Male,Typical angina,122,286,Normal,116,Yes,No Hypertensation
+71,Female,Typical angina,112,149,ST-T wave abnormality,125,No,YES Hypertensation
+43,Female,Typical angina,132,341,Normal,136,Yes,No Hypertensation
+34,Female,Atypical angina,118,210,ST-T wave abnormality,192,No,YES Hypertensation
+51,Male,Typical angina,140,298,ST-T wave abnormality,122,Yes,No Hypertensation
+52,Male,Typical angina,128,204,ST-T wave abnormality,156,Yes,No Hypertensation
+34,Female,Atypical angina,118,210,ST-T wave abnormality,192,No,YES Hypertensation
+51,Female,Non-anginal pain,140,308,Normal,142,No,YES Hypertensation
+54,Male,Typical angina,124,266,Normal,109,Yes,No Hypertensation
+50,Female,Atypical angina,120,244,ST-T wave abnormality,162,No,YES Hypertensation
+58,Male,Non-anginal pain,140,211,Normal,165,No,YES Hypertensation
+60,Male,Non-anginal pain,140,185,Normal,155,No,No Hypertensation
+67,Female,Typical angina,106,223,ST-T wave abnormality,142,No,YES Hypertensation
+45,Male,Typical angina,104,208,Normal,148,Yes,YES Hypertensation
+63,Female,Non-anginal pain,135,252,Normal,172,No,YES Hypertensation
+42,Female,Non-anginal pain,120,209,ST-T wave abnormality,173,No,YES Hypertensation
+61,Female,Typical angina,145,307,Normal,146,Yes,No Hypertensation
+44,Male,Non-anginal pain,130,233,ST-T wave abnormality,179,Yes,YES Hypertensation
+58,Female,Atypical angina,136,319,Normal,152,No,No Hypertensation
+56,Male,Non-anginal pain,130,256,Normal,142,Yes,No Hypertensation
+55,Female,Typical angina,180,327,Left ventricular hypertrophy,117,Yes,No Hypertensation
+44,Male,Typical angina,120,169,ST-T wave abnormality,144,Yes,No Hypertensation
+50,Female,Atypical angina,120,244,ST-T wave abnormality,162,No,YES Hypertensation
+57,Male,Typical angina,130,131,ST-T wave abnormality,115,Yes,No Hypertensation
+70,Male,Non-anginal pain,160,269,ST-T wave abnormality,112,Yes,No Hypertensation
+50,Male,Non-anginal pain,129,196,ST-T wave abnormality,163,No,YES Hypertensation
+46,Male,Non-anginal pain,150,231,ST-T wave abnormality,147,No,No Hypertensation
+51,Male,Asymptomatic,125,213,Normal,125,Yes,YES Hypertensation
+59,Male,Typical angina,138,271,Normal,182,No,YES Hypertensation
+64,Male,Typical angina,128,263,ST-T wave abnormality,105,Yes,YES Hypertensation
+57,Male,Non-anginal pain,128,229,Normal,150,No,No Hypertensation
+65,Female,Non-anginal pain,160,360,Normal,151,No,YES Hypertensation
+54,Male,Non-anginal pain,120,258,Normal,147,No,YES Hypertensation
+61,Female,Typical angina,130,330,Normal,169,No,No Hypertensation
+46,Male,Typical angina,120,249,Normal,144,No,No Hypertensation
+55,Female,Atypical angina,132,342,ST-T wave abnormality,166,No,YES Hypertensation
+42,Male,Typical angina,140,226,ST-T wave abnormality,178,No,YES Hypertensation
+41,Male,Atypical angina,135,203,ST-T wave abnormality,132,No,YES Hypertensation
+66,Female,Typical angina,178,228,ST-T wave abnormality,165,Yes,No Hypertensation
+66,Female,Non-anginal pain,146,278,Normal,152,No,YES Hypertensation
+60,Male,Typical angina,117,230,ST-T wave abnormality,160,Yes,No Hypertensation
+58,Female,Asymptomatic,150,283,Normal,162,No,YES Hypertensation
+57,Female,Typical angina,140,241,ST-T wave abnormality,123,Yes,No Hypertensation
+38,Male,Non-anginal pain,138,175,ST-T wave abnormality,173,No,YES Hypertensation
+49,Male,Non-anginal pain,120,188,ST-T wave abnormality,139,No,No Hypertensation
+55,Male,Typical angina,140,217,ST-T wave abnormality,111,Yes,No Hypertensation
+55,Male,Typical angina,140,217,ST-T wave abnormality,111,Yes,No Hypertensation
+56,Male,Asymptomatic,120,193,Normal,162,No,YES Hypertensation
+48,Male,Atypical angina,130,245,Normal,180,No,YES Hypertensation
+67,Male,Non-anginal pain,152,212,Normal,150,No,No Hypertensation
+57,Male,Atypical angina,154,232,Normal,164,No,No Hypertensation
+29,Male,Atypical angina,130,204,Normal,202,No,YES Hypertensation
+66,Female,Non-anginal pain,146,278,Normal,152,No,YES Hypertensation
+67,Male,Typical angina,100,299,Normal,125,Yes,No Hypertensation
+59,Male,Non-anginal pain,150,212,ST-T wave abnormality,157,No,YES Hypertensation
+29,Male,Atypical angina,130,204,Normal,202,No,YES Hypertensation
+59,Male,Asymptomatic,170,288,Normal,159,No,No Hypertensation
+53,Male,Non-anginal pain,130,197,Normal,152,No,YES Hypertensation
+42,Male,Typical angina,136,315,ST-T wave abnormality,125,Yes,No Hypertensation
+37,Female,Non-anginal pain,120,215,ST-T wave abnormality,170,No,YES Hypertensation
+62,Female,Typical angina,160,164,Normal,145,No,No Hypertensation
+59,Male,Typical angina,170,326,Normal,140,Yes,No Hypertensation
+61,Male,Typical angina,140,207,Normal,138,Yes,No Hypertensation
+56,Male,Typical angina,125,249,Normal,144,Yes,No Hypertensation
+59,Male,Typical angina,140,177,ST-T wave abnormality,162,Yes,No Hypertensation
+48,Male,Typical angina,130,256,Normal,150,Yes,No Hypertensation
+47,Male,Non-anginal pain,138,257,Normal,156,No,YES Hypertensation
+48,Male,Non-anginal pain,124,255,ST-T wave abnormality,175,No,YES Hypertensation
+63,Male,Typical angina,140,187,Normal,144,Yes,No Hypertensation
+52,Male,Atypical angina,134,201,ST-T wave abnormality,158,No,YES Hypertensation
+52,Male,Atypical angina,134,201,ST-T wave abnormality,158,No,YES Hypertensation
+50,Male,Non-anginal pain,140,233,ST-T wave abnormality,163,No,No Hypertensation
+49,Male,Non-anginal pain,118,149,Normal,126,No,No Hypertensation
+46,Male,Non-anginal pain,150,231,ST-T wave abnormality,147,No,No Hypertensation
+38,Male,Non-anginal pain,138,175,ST-T wave abnormality,173,No,YES Hypertensation
+37,Female,Non-anginal pain,120,215,ST-T wave abnormality,170,No,YES Hypertensation
+44,Male,Atypical angina,120,220,ST-T wave abnormality,170,No,YES Hypertensation
+58,Male,Non-anginal pain,140,211,Normal,165,No,YES Hypertensation
+59,Female,Typical angina,174,249,ST-T wave abnormality,143,Yes,No Hypertensation
+62,Female,Typical angina,140,268,Normal,160,No,No Hypertensation
+68,Male,Typical angina,144,193,ST-T wave abnormality,141,No,No Hypertensation
+54,Female,Non-anginal pain,108,267,Normal,167,No,YES Hypertensation
+62,Female,Typical angina,124,209,ST-T wave abnormality,163,No,YES Hypertensation
+63,Male,Typical angina,140,187,Normal,144,Yes,No Hypertensation
+44,Male,Typical angina,120,169,ST-T wave abnormality,144,Yes,No Hypertensation
+62,Male,Atypical angina,128,208,Normal,140,No,YES Hypertensation
+45,Female,Typical angina,138,236,Normal,152,Yes,YES Hypertensation
+57,Female,Typical angina,128,303,Normal,159,No,YES Hypertensation
+53,Male,Typical angina,123,282,ST-T wave abnormality,95,Yes,No Hypertensation
+65,Male,Typical angina,110,248,Normal,158,No,No Hypertensation
+76,Female,Non-anginal pain,140,197,Left ventricular hypertrophy,116,No,YES Hypertensation
+43,Female,Non-anginal pain,122,213,ST-T wave abnormality,165,No,YES Hypertensation
+57,Male,Non-anginal pain,150,126,ST-T wave abnormality,173,No,YES Hypertensation
+54,Male,Atypical angina,108,309,ST-T wave abnormality,156,No,YES Hypertensation
+47,Male,Non-anginal pain,138,257,Normal,156,No,YES Hypertensation
+52,Male,Asymptomatic,118,186,Normal,190,No,YES Hypertensation
+47,Male,Typical angina,110,275,Normal,118,Yes,No Hypertensation
+51,Male,Typical angina,140,299,ST-T wave abnormality,173,Yes,No Hypertensation
+62,Male,Atypical angina,120,281,Normal,103,No,No Hypertensation
+40,Male,Typical angina,152,223,ST-T wave abnormality,181,No,No Hypertensation
+54,Male,Typical angina,110,206,Normal,108,Yes,No Hypertensation
+44,Male,Typical angina,110,197,Normal,177,No,No Hypertensation
+53,Male,Typical angina,142,226,Normal,111,Yes,YES Hypertensation
+48,Male,Typical angina,130,256,Normal,150,Yes,No Hypertensation
+57,Male,Typical angina,110,335,ST-T wave abnormality,143,Yes,No Hypertensation
+59,Male,Non-anginal pain,126,218,ST-T wave abnormality,134,No,No Hypertensation
+61,Female,Typical angina,145,307,Normal,146,Yes,No Hypertensation
+63,Male,Typical angina,130,254,Normal,147,No,No Hypertensation
+43,Male,Typical angina,120,177,Normal,120,Yes,No Hypertensation
+29,Male,Atypical angina,130,204,Normal,202,No,YES Hypertensation
+42,Male,Atypical angina,120,295,ST-T wave abnormality,162,No,YES Hypertensation
+54,Male,Atypical angina,108,309,ST-T wave abnormality,156,No,YES Hypertensation
+44,Male,Typical angina,120,169,ST-T wave abnormality,144,Yes,No Hypertensation
+60,Male,Typical angina,145,282,Normal,142,Yes,No Hypertensation
+65,Female,Non-anginal pain,140,417,Normal,157,No,YES Hypertensation
+61,Male,Typical angina,120,260,ST-T wave abnormality,140,Yes,No Hypertensation
+60,Female,Asymptomatic,150,240,ST-T wave abnormality,171,No,YES Hypertensation
+66,Male,Typical angina,120,302,Normal,151,No,YES Hypertensation
+53,Male,Non-anginal pain,130,197,Normal,152,No,YES Hypertensation
+52,Male,Non-anginal pain,138,223,ST-T wave abnormality,169,No,YES Hypertensation
+57,Male,Typical angina,140,192,ST-T wave abnormality,148,No,YES Hypertensation
+60,Female,Asymptomatic,150,240,ST-T wave abnormality,171,No,YES Hypertensation
+51,Female,Non-anginal pain,130,256,Normal,149,No,YES Hypertensation
+41,Male,Atypical angina,135,203,ST-T wave abnormality,132,No,YES Hypertensation
+50,Male,Non-anginal pain,129,196,ST-T wave abnormality,163,No,YES Hypertensation
+54,Male,Atypical angina,108,309,ST-T wave abnormality,156,No,YES Hypertensation
+58,Female,Typical angina,170,225,Normal,146,Yes,No Hypertensation
+55,Female,Atypical angina,132,342,ST-T wave abnormality,166,No,YES Hypertensation
+64,Female,Typical angina,180,325,ST-T wave abnormality,154,Yes,YES Hypertensation
+47,Male,Non-anginal pain,138,257,Normal,156,No,YES Hypertensation
+41,Male,Atypical angina,110,235,ST-T wave abnormality,153,No,YES Hypertensation
+57,Male,Typical angina,152,274,ST-T wave abnormality,88,Yes,No Hypertensation
+63,Female,Typical angina,124,197,ST-T wave abnormality,136,Yes,No Hypertensation
+61,Male,Asymptomatic,134,234,ST-T wave abnormality,145,No,No Hypertensation
+34,Male,Asymptomatic,118,182,Normal,174,No,YES Hypertensation
+47,Male,Typical angina,112,204,ST-T wave abnormality,143,No,YES Hypertensation
+40,Male,Typical angina,110,167,Normal,114,Yes,No Hypertensation
+51,Female,Non-anginal pain,120,295,Normal,157,No,YES Hypertensation
+41,Male,Typical angina,110,172,Normal,158,No,No Hypertensation
+52,Male,Asymptomatic,152,298,ST-T wave abnormality,178,No,YES Hypertensation
+39,Male,Non-anginal pain,140,321,Normal,182,No,YES Hypertensation
+58,Male,Typical angina,114,318,Left ventricular hypertrophy,140,No,No Hypertensation
+54,Male,Atypical angina,192,283,Normal,195,No,No Hypertensation
+58,Male,Typical angina,125,300,Normal,171,No,No Hypertensation
+54,Male,Non-anginal pain,120,258,Normal,147,No,YES Hypertensation
+63,Male,Typical angina,130,330,Normal,132,Yes,No Hypertensation
+54,Male,Atypical angina,108,309,ST-T wave abnormality,156,No,YES Hypertensation
+40,Male,Asymptomatic,140,199,ST-T wave abnormality,178,Yes,YES Hypertensation
+54,Male,Non-anginal pain,120,258,Normal,147,No,YES Hypertensation
+67,Female,Non-anginal pain,115,564,Normal,160,No,YES Hypertensation
+41,Male,Atypical angina,120,157,ST-T wave abnormality,182,No,YES Hypertensation
+77,Male,Typical angina,125,304,Normal,162,Yes,No Hypertensation
+51,Male,Non-anginal pain,100,222,ST-T wave abnormality,143,Yes,YES Hypertensation
+77,Male,Typical angina,125,304,Normal,162,Yes,No Hypertensation
+48,Male,Typical angina,124,274,Normal,166,No,No Hypertensation
+56,Male,Typical angina,125,249,Normal,144,Yes,No Hypertensation
+59,Male,Typical angina,170,326,Normal,140,Yes,No Hypertensation
+56,Male,Typical angina,132,184,Normal,105,Yes,No Hypertensation
+57,Female,Typical angina,120,354,ST-T wave abnormality,163,Yes,YES Hypertensation
+43,Male,Non-anginal pain,130,315,ST-T wave abnormality,162,No,YES Hypertensation
+45,Female,Atypical angina,112,160,ST-T wave abnormality,138,No,YES Hypertensation
+43,Male,Typical angina,150,247,ST-T wave abnormality,171,No,YES Hypertensation
+56,Male,Typical angina,130,283,Normal,103,Yes,No Hypertensation
+56,Male,Atypical angina,120,240,ST-T wave abnormality,169,No,YES Hypertensation
+39,Female,Non-anginal pain,94,199,ST-T wave abnormality,179,No,YES Hypertensation
+54,Male,Typical angina,110,239,ST-T wave abnormality,126,Yes,No Hypertensation
+56,Female,Typical angina,200,288,Normal,133,Yes,No Hypertensation
+56,Male,Typical angina,130,283,Normal,103,Yes,No Hypertensation
+64,Male,Typical angina,120,246,Normal,96,Yes,No Hypertensation
+44,Male,Typical angina,110,197,Normal,177,No,No Hypertensation
+56,Female,Typical angina,134,409,Normal,150,Yes,No Hypertensation
+63,Male,Typical angina,140,187,Normal,144,Yes,No Hypertensation
+64,Male,Asymptomatic,110,211,Normal,144,Yes,YES Hypertensation
+60,Male,Typical angina,140,293,Normal,170,No,No Hypertensation
+42,Male,Non-anginal pain,130,180,ST-T wave abnormality,150,No,YES Hypertensation
+45,Male,Atypical angina,128,308,Normal,170,No,YES Hypertensation
+57,Male,Typical angina,165,289,Normal,124,No,No Hypertensation
+40,Male,Typical angina,110,167,Normal,114,Yes,No Hypertensation
+56,Male,Typical angina,125,249,Normal,144,Yes,No Hypertensation
+63,Male,Typical angina,130,254,Normal,147,No,No Hypertensation
+64,Male,Non-anginal pain,125,309,ST-T wave abnormality,131,Yes,No Hypertensation
+41,Male,Non-anginal pain,112,250,ST-T wave abnormality,179,No,YES Hypertensation
+56,Male,Atypical angina,130,221,Normal,163,No,YES Hypertensation
+67,Female,Non-anginal pain,115,564,Normal,160,No,YES Hypertensation
+69,Male,Asymptomatic,160,234,Normal,131,No,YES Hypertensation
+67,Male,Typical angina,160,286,Normal,108,Yes,No Hypertensation
+59,Male,Non-anginal pain,150,212,ST-T wave abnormality,157,No,YES Hypertensation
+58,Male,Typical angina,100,234,ST-T wave abnormality,156,No,No Hypertensation
+45,Male,Typical angina,115,260,Normal,185,No,YES Hypertensation
+60,Female,Non-anginal pain,102,318,ST-T wave abnormality,160,No,YES Hypertensation
+50,Male,Typical angina,144,200,Normal,126,Yes,No Hypertensation
+62,Female,Typical angina,124,209,ST-T wave abnormality,163,No,YES Hypertensation
+34,Male,Asymptomatic,118,182,Normal,174,No,YES Hypertensation
+52,Male,Asymptomatic,152,298,ST-T wave abnormality,178,No,YES Hypertensation
+64,Male,Asymptomatic,170,227,Normal,155,No,YES Hypertensation
+66,Female,Non-anginal pain,146,278,Normal,152,No,YES Hypertensation
+42,Male,Asymptomatic,148,244,Normal,178,No,YES Hypertensation
+59,Male,Non-anginal pain,126,218,ST-T wave abnormality,134,No,No Hypertensation
+41,Male,Non-anginal pain,112,250,ST-T wave abnormality,179,No,YES Hypertensation
+38,Male,Non-anginal pain,138,175,ST-T wave abnormality,173,No,YES Hypertensation
+62,Male,Atypical angina,120,281,Normal,103,No,No Hypertensation
+42,Male,Non-anginal pain,120,240,ST-T wave abnormality,194,No,YES Hypertensation
+67,Male,Typical angina,100,299,Normal,125,Yes,No Hypertensation
+50,Male,Typical angina,150,243,Normal,128,No,No Hypertensation
+43,Male,Non-anginal pain,130,315,ST-T wave abnormality,162,No,YES Hypertensation
+45,Male,Atypical angina,128,308,Normal,170,No,YES Hypertensation
+49,Male,Atypical angina,130,266,ST-T wave abnormality,171,No,YES Hypertensation
+65,Male,Typical angina,135,254,Normal,127,No,No Hypertensation
+41,Male,Atypical angina,120,157,ST-T wave abnormality,182,No,YES Hypertensation
+46,Male,Typical angina,140,311,ST-T wave abnormality,120,Yes,No Hypertensation
+54,Male,Typical angina,122,286,Normal,116,Yes,No Hypertensation
+57,Female,Atypical angina,130,236,Normal,174,No,No Hypertensation
+63,Male,Typical angina,130,254,Normal,147,No,No Hypertensation
+64,Male,Asymptomatic,110,211,Normal,144,Yes,YES Hypertensation
+39,Female,Non-anginal pain,94,199,ST-T wave abnormality,179,No,YES Hypertensation
+51,Male,Typical angina,140,261,Normal,186,Yes,YES Hypertensation
+54,Male,Non-anginal pain,150,232,Normal,165,No,YES Hypertensation
+49,Male,Non-anginal pain,118,149,Normal,126,No,No Hypertensation
+44,Female,Non-anginal pain,118,242,ST-T wave abnormality,149,No,YES Hypertensation
+52,Male,Atypical angina,128,205,ST-T wave abnormality,184,No,YES Hypertensation
+66,Female,Typical angina,178,228,ST-T wave abnormality,165,Yes,No Hypertensation
+58,Male,Typical angina,125,300,Normal,171,No,No Hypertensation
+56,Male,Atypical angina,120,236,ST-T wave abnormality,178,No,YES Hypertensation
+60,Male,Typical angina,125,258,Normal,141,Yes,No Hypertensation
+41,Female,Atypical angina,126,306,ST-T wave abnormality,163,No,YES Hypertensation
+49,Female,Typical angina,130,269,ST-T wave abnormality,163,No,YES Hypertensation
+64,Male,Asymptomatic,170,227,Normal,155,No,YES Hypertensation
+49,Male,Non-anginal pain,118,149,Normal,126,No,No Hypertensation
+57,Male,Atypical angina,124,261,ST-T wave abnormality,141,No,No Hypertensation
+60,Male,Typical angina,117,230,ST-T wave abnormality,160,Yes,No Hypertensation
+62,Female,Typical angina,150,244,ST-T wave abnormality,154,Yes,No Hypertensation
+54,Female,Atypical angina,132,288,Normal,159,Yes,YES Hypertensation
+67,Male,Non-anginal pain,152,212,Normal,150,No,No Hypertensation
+38,Male,Non-anginal pain,138,175,ST-T wave abnormality,173,No,YES Hypertensation
+60,Male,Non-anginal pain,140,185,Normal,155,No,No Hypertensation
+51,Male,Non-anginal pain,125,245,Normal,166,No,YES Hypertensation
+44,Male,Atypical angina,130,219,Normal,188,No,YES Hypertensation
+54,Male,Atypical angina,192,283,Normal,195,No,No Hypertensation
+46,Male,Typical angina,140,311,ST-T wave abnormality,120,Yes,No Hypertensation
+39,Female,Non-anginal pain,138,220,ST-T wave abnormality,152,No,YES Hypertensation
+42,Male,Non-anginal pain,130,180,ST-T wave abnormality,150,No,YES Hypertensation
+47,Male,Typical angina,110,275,Normal,118,Yes,No Hypertensation
+45,Female,Atypical angina,112,160,ST-T wave abnormality,138,No,YES Hypertensation
+55,Male,Typical angina,132,353,ST-T wave abnormality,132,Yes,No Hypertensation
+57,Male,Typical angina,165,289,Normal,124,No,No Hypertensation
+35,Male,Typical angina,120,198,ST-T wave abnormality,130,Yes,No Hypertensation
+62,Female,Typical angina,140,394,Normal,157,No,YES Hypertensation
+35,Female,Typical angina,138,183,ST-T wave abnormality,182,No,YES Hypertensation
+64,Female,Typical angina,180,325,ST-T wave abnormality,154,Yes,YES Hypertensation
+38,Male,Asymptomatic,120,231,ST-T wave abnormality,182,Yes,No Hypertensation
+66,Male,Typical angina,120,302,Normal,151,No,YES Hypertensation
+44,Male,Non-anginal pain,120,226,ST-T wave abnormality,169,No,YES Hypertensation
+54,Male,Non-anginal pain,150,232,Normal,165,No,YES Hypertensation
+48,Male,Typical angina,122,222,Normal,186,No,YES Hypertensation
+55,Female,Atypical angina,132,342,ST-T wave abnormality,166,No,YES Hypertensation
+58,Female,Typical angina,170,225,Normal,146,Yes,No Hypertensation
+45,Male,Typical angina,104,208,Normal,148,Yes,YES Hypertensation
+53,Male,Typical angina,123,282,ST-T wave abnormality,95,Yes,No Hypertensation
+67,Male,Typical angina,120,237,ST-T wave abnormality,71,No,No Hypertensation
+58,Male,Non-anginal pain,132,224,Normal,173,No,No Hypertensation
+71,Female,Non-anginal pain,110,265,Normal,130,No,YES Hypertensation
+43,Male,Typical angina,110,211,ST-T wave abnormality,161,No,YES Hypertensation
+44,Male,Atypical angina,120,263,ST-T wave abnormality,173,No,YES Hypertensation
+39,Female,Non-anginal pain,138,220,ST-T wave abnormality,152,No,YES Hypertensation
+54,Male,Typical angina,110,206,Normal,108,Yes,No Hypertensation
+66,Male,Typical angina,160,228,Normal,138,No,YES Hypertensation
+56,Male,Typical angina,130,283,Normal,103,Yes,No Hypertensation
+57,Male,Typical angina,132,207,ST-T wave abnormality,168,Yes,YES Hypertensation
+44,Male,Atypical angina,130,219,Normal,188,No,YES Hypertensation
+55,Male,Typical angina,160,289,Normal,145,Yes,No Hypertensation
+41,Female,Atypical angina,105,198,ST-T wave abnormality,168,No,YES Hypertensation
+45,Female,Atypical angina,130,234,Normal,175,No,YES Hypertensation
+35,Male,Atypical angina,122,192,ST-T wave abnormality,174,No,YES Hypertensation
+41,Female,Atypical angina,130,204,Normal,172,No,YES Hypertensation
+64,Male,Asymptomatic,110,211,Normal,144,Yes,YES Hypertensation
+58,Male,Non-anginal pain,132,224,Normal,173,No,No Hypertensation
+71,Female,Non-anginal pain,110,265,Normal,130,No,YES Hypertensation
+64,Female,Non-anginal pain,140,313,ST-T wave abnormality,133,No,YES Hypertensation
+71,Female,Atypical angina,160,302,ST-T wave abnormality,162,No,YES Hypertensation
+58,Female,Non-anginal pain,120,340,ST-T wave abnormality,172,No,YES Hypertensation
+40,Male,Typical angina,152,223,ST-T wave abnormality,181,No,No Hypertensation
+52,Male,Non-anginal pain,138,223,ST-T wave abnormality,169,No,YES Hypertensation
+58,Male,Typical angina,128,259,Normal,130,Yes,No Hypertensation
+61,Male,Non-anginal pain,150,243,ST-T wave abnormality,137,Yes,YES Hypertensation
+59,Male,Non-anginal pain,150,212,ST-T wave abnormality,157,No,YES Hypertensation
+56,Female,Typical angina,200,288,Normal,133,Yes,No Hypertensation
+67,Male,Typical angina,100,299,Normal,125,Yes,No Hypertensation
+67,Male,Typical angina,120,237,ST-T wave abnormality,71,No,No Hypertensation
+58,Male,Typical angina,150,270,Normal,111,Yes,No Hypertensation
+35,Male,Atypical angina,122,192,ST-T wave abnormality,174,No,YES Hypertensation
+52,Male,Atypical angina,120,325,ST-T wave abnormality,172,No,YES Hypertensation
+46,Female,Atypical angina,105,204,ST-T wave abnormality,172,No,YES Hypertensation
+51,Male,Non-anginal pain,94,227,ST-T wave abnormality,154,Yes,YES Hypertensation
+55,Female,Atypical angina,132,342,ST-T wave abnormality,166,No,YES Hypertensation
+60,Male,Typical angina,145,282,Normal,142,Yes,No Hypertensation
+52,Female,Non-anginal pain,136,196,Normal,169,No,YES Hypertensation
+62,Male,Typical angina,120,267,ST-T wave abnormality,99,Yes,No Hypertensation
+44,Female,Non-anginal pain,118,242,ST-T wave abnormality,149,No,YES Hypertensation
+44,Male,Atypical angina,120,220,ST-T wave abnormality,170,No,YES Hypertensation
+59,Male,Non-anginal pain,126,218,ST-T wave abnormality,134,No,No Hypertensation
+56,Female,Atypical angina,140,294,Normal,153,No,YES Hypertensation
+61,Male,Typical angina,120,260,ST-T wave abnormality,140,Yes,No Hypertensation
+48,Male,Typical angina,130,256,Normal,150,Yes,No Hypertensation
+70,Male,Non-anginal pain,160,269,ST-T wave abnormality,112,Yes,No Hypertensation
+74,Female,Atypical angina,120,269,Normal,121,Yes,YES Hypertensation
+40,Male,Asymptomatic,140,199,ST-T wave abnormality,178,Yes,YES Hypertensation
+42,Male,Asymptomatic,148,244,Normal,178,No,YES Hypertensation
+64,Female,Non-anginal pain,140,313,ST-T wave abnormality,133,No,YES Hypertensation
+63,Female,Non-anginal pain,135,252,Normal,172,No,YES Hypertensation
+59,Male,Typical angina,140,177,ST-T wave abnormality,162,Yes,No Hypertensation
+53,Female,Non-anginal pain,128,216,Normal,115,No,YES Hypertensation
+53,Female,Typical angina,130,264,Normal,143,No,YES Hypertensation
+48,Female,Non-anginal pain,130,275,ST-T wave abnormality,139,No,YES Hypertensation
+45,Male,Typical angina,142,309,Normal,147,Yes,No Hypertensation
+66,Male,Atypical angina,160,246,ST-T wave abnormality,120,Yes,No Hypertensation
+48,Male,Atypical angina,130,245,Normal,180,No,YES Hypertensation
+56,Female,Atypical angina,140,294,Normal,153,No,YES Hypertensation
+54,Male,Atypical angina,192,283,Normal,195,No,No Hypertensation
+57,Male,Typical angina,150,276,Normal,112,Yes,No Hypertensation
+70,Male,Typical angina,130,322,Normal,109,No,No Hypertensation
+53,Female,Non-anginal pain,128,216,Normal,115,No,YES Hypertensation
+37,Female,Non-anginal pain,120,215,ST-T wave abnormality,170,No,YES Hypertensation
+63,Female,Typical angina,108,269,ST-T wave abnormality,169,Yes,No Hypertensation
+37,Male,Non-anginal pain,130,250,ST-T wave abnormality,187,No,YES Hypertensation
+54,Female,Non-anginal pain,110,214,ST-T wave abnormality,158,No,YES Hypertensation
+60,Male,Typical angina,130,206,Normal,132,Yes,No Hypertensation
+58,Male,Typical angina,150,270,Normal,111,Yes,No Hypertensation
+57,Male,Non-anginal pain,150,126,ST-T wave abnormality,173,No,YES Hypertensation
+54,Male,Non-anginal pain,125,273,Normal,152,No,YES Hypertensation
+56,Male,Non-anginal pain,130,256,Normal,142,Yes,No Hypertensation
+60,Male,Typical angina,130,253,ST-T wave abnormality,144,Yes,No Hypertensation
+38,Male,Non-anginal pain,138,175,ST-T wave abnormality,173,No,YES Hypertensation
+44,Male,Non-anginal pain,120,226,ST-T wave abnormality,169,No,YES Hypertensation
+65,Female,Non-anginal pain,155,269,ST-T wave abnormality,148,No,YES Hypertensation
+52,Male,Non-anginal pain,172,199,ST-T wave abnormality,162,No,YES Hypertensation
+41,Male,Atypical angina,120,157,ST-T wave abnormality,182,No,YES Hypertensation
+66,Male,Atypical angina,160,246,ST-T wave abnormality,120,Yes,No Hypertensation
+50,Male,Typical angina,150,243,Normal,128,No,No Hypertensation
+54,Female,Non-anginal pain,108,267,Normal,167,No,YES Hypertensation
+43,Male,Typical angina,132,247,Normal,143,Yes,No Hypertensation
+62,Female,Non-anginal pain,130,263,ST-T wave abnormality,97,No,No Hypertensation
+66,Male,Typical angina,120,302,Normal,151,No,YES Hypertensation
+50,Male,Typical angina,144,200,Normal,126,Yes,No Hypertensation
+57,Male,Typical angina,110,335,ST-T wave abnormality,143,Yes,No Hypertensation
+57,Male,Typical angina,110,201,ST-T wave abnormality,126,Yes,YES Hypertensation
+57,Male,Atypical angina,124,261,ST-T wave abnormality,141,No,No Hypertensation
+46,Female,Typical angina,138,243,Normal,152,Yes,YES Hypertensation
+59,Male,Typical angina,164,176,Normal,90,No,No Hypertensation
+67,Male,Typical angina,160,286,Normal,108,Yes,No Hypertensation
+59,Male,Asymptomatic,134,204,ST-T wave abnormality,162,No,No Hypertensation
+53,Female,Non-anginal pain,128,216,Normal,115,No,YES Hypertensation
+48,Male,Typical angina,122,222,Normal,186,No,YES Hypertensation
+62,Male,Non-anginal pain,130,231,ST-T wave abnormality,146,No,YES Hypertensation
+43,Female,Non-anginal pain,122,213,ST-T wave abnormality,165,No,YES Hypertensation
+53,Male,Non-anginal pain,130,246,Normal,173,No,YES Hypertensation
+57,Female,Atypical angina,130,236,Normal,174,No,No Hypertensation
+53,Male,Non-anginal pain,130,246,Normal,173,No,YES Hypertensation
+58,Male,Non-anginal pain,112,230,Normal,165,No,No Hypertensation
+48,Male,Atypical angina,110,229,ST-T wave abnormality,168,No,No Hypertensation
+58,Male,Non-anginal pain,105,240,Normal,154,Yes,YES Hypertensation
+51,Male,Non-anginal pain,110,175,ST-T wave abnormality,123,No,YES Hypertensation
+43,Female,Typical angina,132,341,Normal,136,Yes,No Hypertensation
+55,Male,Typical angina,132,353,ST-T wave abnormality,132,Yes,No Hypertensation
+54,Female,Non-anginal pain,110,214,ST-T wave abnormality,158,No,YES Hypertensation
+58,Male,Atypical angina,120,284,Normal,160,No,No Hypertensation
+46,Female,Non-anginal pain,142,177,Normal,160,Yes,YES Hypertensation
+66,Male,Typical angina,160,228,Normal,138,No,YES Hypertensation
+59,Male,Atypical angina,140,221,ST-T wave abnormality,164,Yes,YES Hypertensation
+64,Female,Typical angina,130,303,ST-T wave abnormality,122,No,YES Hypertensation
+67,Male,Typical angina,120,237,ST-T wave abnormality,71,No,No Hypertensation
+52,Male,Asymptomatic,118,186,Normal,190,No,YES Hypertensation
+58,Male,Typical angina,146,218,ST-T wave abnormality,105,No,No Hypertensation
+58,Male,Non-anginal pain,132,224,Normal,173,No,No Hypertensation
+59,Male,Typical angina,110,239,Normal,142,Yes,No Hypertensation
+58,Male,Typical angina,150,270,Normal,111,Yes,No Hypertensation
+35,Male,Typical angina,126,282,Normal,156,Yes,No Hypertensation
+51,Male,Non-anginal pain,110,175,ST-T wave abnormality,123,No,YES Hypertensation
+42,Female,Non-anginal pain,120,209,ST-T wave abnormality,173,No,YES Hypertensation
+77,Male,Typical angina,125,304,Normal,162,Yes,No Hypertensation
+64,Male,Typical angina,120,246,Normal,96,Yes,No Hypertensation
+63,Male,Asymptomatic,145,233,Normal,150,No,YES Hypertensation
+58,Female,Atypical angina,136,319,Normal,152,No,No Hypertensation
+45,Male,Asymptomatic,110,264,ST-T wave abnormality,132,No,No Hypertensation
+51,Male,Non-anginal pain,110,175,ST-T wave abnormality,123,No,YES Hypertensation
+62,Female,Typical angina,160,164,Normal,145,No,No Hypertensation
+63,Male,Typical angina,130,330,Normal,132,Yes,No Hypertensation
+66,Female,Non-anginal pain,146,278,Normal,152,No,YES Hypertensation
+68,Male,Non-anginal pain,180,274,Normal,150,Yes,No Hypertensation
+40,Male,Typical angina,110,167,Normal,114,Yes,No Hypertensation
+66,Male,Typical angina,160,228,Normal,138,No,YES Hypertensation
+63,Male,Asymptomatic,145,233,Normal,150,No,YES Hypertensation
+49,Male,Non-anginal pain,120,188,ST-T wave abnormality,139,No,No Hypertensation
+71,Female,Typical angina,112,149,ST-T wave abnormality,125,No,YES Hypertensation
+70,Male,Atypical angina,156,245,Normal,143,No,YES Hypertensation
+46,Female,Atypical angina,105,204,ST-T wave abnormality,172,No,YES Hypertensation
+61,Male,Typical angina,140,207,Normal,138,Yes,No Hypertensation
+56,Male,Non-anginal pain,130,256,Normal,142,Yes,No Hypertensation
+58,Male,Non-anginal pain,140,211,Normal,165,No,YES Hypertensation
+58,Male,Typical angina,100,234,ST-T wave abnormality,156,No,No Hypertensation
+46,Female,Typical angina,138,243,Normal,152,Yes,YES Hypertensation
+46,Male,Non-anginal pain,150,231,ST-T wave abnormality,147,No,No Hypertensation
+41,Female,Atypical angina,105,198,ST-T wave abnormality,168,No,YES Hypertensation
+56,Male,Typical angina,125,249,Normal,144,Yes,No Hypertensation
+57,Male,Typical angina,150,276,Normal,112,Yes,No Hypertensation
+70,Male,Typical angina,130,322,Normal,109,No,No Hypertensation
+59,Male,Asymptomatic,170,288,Normal,159,No,No Hypertensation
+41,Female,Atypical angina,130,204,Normal,172,No,YES Hypertensation
+54,Male,Non-anginal pain,125,273,Normal,152,No,YES Hypertensation
+52,Male,Non-anginal pain,138,223,ST-T wave abnormality,169,No,YES Hypertensation
+62,Female,Typical angina,124,209,ST-T wave abnormality,163,No,YES Hypertensation
+65,Female,Non-anginal pain,160,360,Normal,151,No,YES Hypertensation
+57,Female,Typical angina,128,303,Normal,159,No,YES Hypertensation
+42,Female,Typical angina,102,265,Normal,122,No,YES Hypertensation
+57,Female,Typical angina,120,354,ST-T wave abnormality,163,Yes,YES Hypertensation
+58,Female,Atypical angina,136,319,Normal,152,No,No Hypertensation
+45,Male,Typical angina,142,309,Normal,147,Yes,No Hypertensation
+51,Female,Typical angina,130,305,ST-T wave abnormality,142,Yes,No Hypertensation
+54,Female,Non-anginal pain,160,201,ST-T wave abnormality,163,No,YES Hypertensation
+57,Male,Non-anginal pain,150,168,ST-T wave abnormality,174,No,YES Hypertensation
+43,Male,Typical angina,132,247,Normal,143,Yes,No Hypertensation
+47,Male,Non-anginal pain,108,243,ST-T wave abnormality,152,No,No Hypertensation
+67,Male,Non-anginal pain,152,212,Normal,150,No,No Hypertensation
+65,Female,Typical angina,150,225,Normal,114,No,No Hypertensation
+60,Female,Non-anginal pain,102,318,ST-T wave abnormality,160,No,YES Hypertensation
+37,Male,Non-anginal pain,130,250,ST-T wave abnormality,187,No,YES Hypertensation
+41,Female,Non-anginal pain,112,268,Normal,172,Yes,YES Hypertensation
+57,Female,Typical angina,120,354,ST-T wave abnormality,163,Yes,YES Hypertensation
+59,Female,Typical angina,174,249,ST-T wave abnormality,143,Yes,No Hypertensation
+67,Male,Typical angina,120,229,Normal,129,Yes,No Hypertensation
+47,Male,Non-anginal pain,130,253,ST-T wave abnormality,179,No,YES Hypertensation
+58,Male,Atypical angina,120,284,Normal,160,No,No Hypertensation
+62,Female,Typical angina,150,244,ST-T wave abnormality,154,Yes,No Hypertensation
+60,Male,Typical angina,140,293,Normal,170,No,No Hypertensation
+57,Male,Typical angina,152,274,ST-T wave abnormality,88,Yes,No Hypertensation
+57,Male,Non-anginal pain,150,168,ST-T wave abnormality,174,No,YES Hypertensation
+47,Male,Non-anginal pain,130,253,ST-T wave abnormality,179,No,YES Hypertensation
+52,Male,Atypical angina,128,205,ST-T wave abnormality,184,No,YES Hypertensation
+53,Male,Non-anginal pain,130,246,Normal,173,No,YES Hypertensation
+55,Male,Typical angina,160,289,Normal,145,Yes,No Hypertensation
+51,Female,Non-anginal pain,120,295,Normal,157,No,YES Hypertensation
+52,Male,Typical angina,112,230,ST-T wave abnormality,160,No,No Hypertensation
+63,Female,Typical angina,150,407,Normal,154,No,No Hypertensation
+49,Female,Atypical angina,134,271,ST-T wave abnormality,162,No,YES Hypertensation
+66,Female,Typical angina,178,228,ST-T wave abnormality,165,Yes,No Hypertensation
+49,Female,Atypical angina,134,271,ST-T wave abnormality,162,No,YES Hypertensation
+65,Female,Typical angina,150,225,Normal,114,No,No Hypertensation
+69,Male,Asymptomatic,160,234,Normal,131,No,YES Hypertensation
+47,Male,Non-anginal pain,108,243,ST-T wave abnormality,152,No,No Hypertensation
+39,Female,Non-anginal pain,138,220,ST-T wave abnormality,152,No,YES Hypertensation
+43,Male,Typical angina,150,247,ST-T wave abnormality,171,No,YES Hypertensation
+51,Male,Typical angina,140,261,Normal,186,Yes,YES Hypertensation
+69,Male,Non-anginal pain,140,254,Normal,146,No,No Hypertensation
+48,Male,Non-anginal pain,124,255,ST-T wave abnormality,175,No,YES Hypertensation
+52,Male,Asymptomatic,118,186,Normal,190,No,YES Hypertensation
+43,Male,Typical angina,110,211,ST-T wave abnormality,161,No,YES Hypertensation
+67,Female,Non-anginal pain,115,564,Normal,160,No,YES Hypertensation
+38,Male,Non-anginal pain,138,175,ST-T wave abnormality,173,No,YES Hypertensation
+44,Male,Atypical angina,130,219,Normal,188,No,YES Hypertensation
+47,Male,Typical angina,110,275,Normal,118,Yes,No Hypertensation
+61,Male,Non-anginal pain,150,243,ST-T wave abnormality,137,Yes,YES Hypertensation
+67,Male,Typical angina,160,286,Normal,108,Yes,No Hypertensation
+60,Female,Asymptomatic,150,240,ST-T wave abnormality,171,No,YES Hypertensation
+64,Female,Non-anginal pain,140,313,ST-T wave abnormality,133,No,YES Hypertensation
+58,Female,Typical angina,130,197,ST-T wave abnormality,131,No,YES Hypertensation
+41,Male,Non-anginal pain,130,214,Normal,168,No,YES Hypertensation
+48,Male,Atypical angina,110,229,ST-T wave abnormality,168,No,No Hypertensation
+57,Male,Non-anginal pain,150,126,ST-T wave abnormality,173,No,YES Hypertensation
+57,Male,Typical angina,165,289,Normal,124,No,No Hypertensation
+57,Male,Non-anginal pain,128,229,Normal,150,No,No Hypertensation
+39,Male,Non-anginal pain,140,321,Normal,182,No,YES Hypertensation
+58,Male,Typical angina,128,216,Normal,131,Yes,No Hypertensation
+51,Female,Typical angina,130,305,ST-T wave abnormality,142,Yes,No Hypertensation
+63,Female,Typical angina,150,407,Normal,154,No,No Hypertensation
+51,Male,Typical angina,140,298,ST-T wave abnormality,122,Yes,No Hypertensation
+35,Male,Atypical angina,122,192,ST-T wave abnormality,174,No,YES Hypertensation
+65,Male,Typical angina,110,248,Normal,158,No,No Hypertensation
+62,Male,Atypical angina,120,281,Normal,103,No,No Hypertensation
+41,Male,Typical angina,110,172,Normal,158,No,No Hypertensation
+65,Male,Typical angina,135,254,Normal,127,No,No Hypertensation
+54,Female,Atypical angina,132,288,Normal,159,Yes,YES Hypertensation
+61,Male,Non-anginal pain,150,243,ST-T wave abnormality,137,Yes,YES Hypertensation
+57,Female,Typical angina,128,303,Normal,159,No,YES Hypertensation
+57,Male,Non-anginal pain,150,168,ST-T wave abnormality,174,No,YES Hypertensation
+64,Male,Non-anginal pain,125,309,ST-T wave abnormality,131,Yes,No Hypertensation
+55,Male,Typical angina,132,353,ST-T wave abnormality,132,Yes,No Hypertensation
+51,Male,Non-anginal pain,125,245,Normal,166,No,YES Hypertensation
+59,Male,Typical angina,135,234,ST-T wave abnormality,161,No,YES Hypertensation
+68,Male,Non-anginal pain,180,274,Normal,150,Yes,No Hypertensation
+57,Male,Atypical angina,154,232,Normal,164,No,No Hypertensation
+54,Male,Typical angina,140,239,ST-T wave abnormality,160,No,YES Hypertensation
+46,Female,Non-anginal pain,142,177,Normal,160,Yes,YES Hypertensation
+71,Female,Typical angina,112,149,ST-T wave abnormality,125,No,YES Hypertensation
+35,Female,Typical angina,138,183,ST-T wave abnormality,182,No,YES Hypertensation
+46,Female,Non-anginal pain,142,177,Normal,160,Yes,YES Hypertensation
+45,Female,Atypical angina,130,234,Normal,175,No,YES Hypertensation
+47,Male,Non-anginal pain,108,243,ST-T wave abnormality,152,No,No Hypertensation
+44,Female,Non-anginal pain,118,242,ST-T wave abnormality,149,No,YES Hypertensation
+61,Male,Typical angina,120,260,ST-T wave abnormality,140,Yes,No Hypertensation
+41,Female,Atypical angina,130,204,Normal,172,No,YES Hypertensation
+56,Female,Typical angina,200,288,Normal,133,Yes,No Hypertensation
+55,Female,Typical angina,180,327,Left ventricular hypertrophy,117,Yes,No Hypertensation
+54,Female,Atypical angina,132,288,Normal,159,Yes,YES Hypertensation
+43,Male,Typical angina,120,177,Normal,120,Yes,No Hypertensation
+44,Male,Typical angina,112,290,Normal,153,No,No Hypertensation
+54,Male,Typical angina,110,206,Normal,108,Yes,No Hypertensation
+44,Male,Atypical angina,120,220,ST-T wave abnormality,170,No,YES Hypertensation
+49,Male,Non-anginal pain,120,188,ST-T wave abnormality,139,No,No Hypertensation
+60,Male,Typical angina,130,206,Normal,132,Yes,No Hypertensation
+41,Female,Atypical angina,105,198,ST-T wave abnormality,168,No,YES Hypertensation
+49,Male,Non-anginal pain,120,188,ST-T wave abnormality,139,No,No Hypertensation
+61,Male,Typical angina,148,203,ST-T wave abnormality,161,No,No Hypertensation
+59,Male,Typical angina,140,177,ST-T wave abnormality,162,Yes,No Hypertensation
+58,Male,Atypical angina,125,220,ST-T wave abnormality,144,No,YES Hypertensation
+67,Female,Non-anginal pain,152,277,ST-T wave abnormality,172,No,YES Hypertensation
+61,Male,Typical angina,148,203,ST-T wave abnormality,161,No,No Hypertensation
+58,Male,Non-anginal pain,112,230,Normal,165,No,No Hypertensation
+51,Female,Non-anginal pain,130,256,Normal,149,No,YES Hypertensation
+62,Female,Typical angina,160,164,Normal,145,No,No Hypertensation
+62,Female,Typical angina,124,209,ST-T wave abnormality,163,No,YES Hypertensation
+59,Male,Asymptomatic,178,270,Normal,145,No,YES Hypertensation
+69,Male,Asymptomatic,160,234,Normal,131,No,YES Hypertensation
+60,Female,Typical angina,150,258,Normal,157,No,No Hypertensation
+65,Female,Non-anginal pain,155,269,ST-T wave abnormality,148,No,YES Hypertensation
+63,Female,Typical angina,124,197,ST-T wave abnormality,136,Yes,No Hypertensation
+53,Female,Typical angina,138,234,Normal,160,No,YES Hypertensation
+54,Female,Non-anginal pain,108,267,Normal,167,No,YES Hypertensation
+76,Female,Non-anginal pain,140,197,Left ventricular hypertrophy,116,No,YES Hypertensation
+50,Female,Non-anginal pain,120,219,ST-T wave abnormality,158,No,YES Hypertensation
+52,Male,Atypical angina,120,325,ST-T wave abnormality,172,No,YES Hypertensation
+46,Male,Typical angina,120,249,Normal,144,No,No Hypertensation
+64,Male,Asymptomatic,170,227,Normal,155,No,YES Hypertensation
+58,Male,Typical angina,128,259,Normal,130,Yes,No Hypertensation
+44,Male,Non-anginal pain,140,235,Normal,180,No,YES Hypertensation
+62,Female,Typical angina,140,394,Normal,157,No,YES Hypertensation
+59,Male,Asymptomatic,134,204,ST-T wave abnormality,162,No,No Hypertensation
+54,Male,Non-anginal pain,125,273,Normal,152,No,YES Hypertensation
+48,Male,Atypical angina,110,229,ST-T wave abnormality,168,No,No Hypertensation
+70,Male,Typical angina,130,322,Normal,109,No,No Hypertensation
+67,Female,Typical angina,106,223,ST-T wave abnormality,142,No,YES Hypertensation
+51,Female,Non-anginal pain,120,295,Normal,157,No,YES Hypertensation
+68,Male,Non-anginal pain,118,277,ST-T wave abnormality,151,No,YES Hypertensation
+69,Male,Non-anginal pain,140,254,Normal,146,No,No Hypertensation
+54,Male,Typical angina,122,286,Normal,116,Yes,No Hypertensation
+43,Female,Typical angina,132,341,Normal,136,Yes,No Hypertensation
+53,Male,Non-anginal pain,130,197,Normal,152,No,YES Hypertensation
+58,Male,Typical angina,100,234,ST-T wave abnormality,156,No,No Hypertensation
+67,Male,Typical angina,125,254,ST-T wave abnormality,163,No,No Hypertensation
+59,Male,Typical angina,140,177,ST-T wave abnormality,162,Yes,No Hypertensation
+48,Male,Typical angina,122,222,Normal,186,No,YES Hypertensation
+39,Female,Non-anginal pain,94,199,ST-T wave abnormality,179,No,YES Hypertensation
+67,Male,Typical angina,120,237,ST-T wave abnormality,71,No,No Hypertensation
+58,Female,Typical angina,130,197,ST-T wave abnormality,131,No,YES Hypertensation
+65,Female,Non-anginal pain,155,269,ST-T wave abnormality,148,No,YES Hypertensation
+42,Female,Non-anginal pain,120,209,ST-T wave abnormality,173,No,YES Hypertensation
+44,Male,Typical angina,112,290,Normal,153,No,No Hypertensation
+56,Male,Typical angina,132,184,Normal,105,Yes,No Hypertensation
+53,Female,Typical angina,138,234,Normal,160,No,YES Hypertensation
+50,Female,Typical angina,110,254,Normal,159,No,YES Hypertensation
+41,Male,Non-anginal pain,130,214,Normal,168,No,YES Hypertensation
+54,Female,Non-anginal pain,160,201,ST-T wave abnormality,163,No,YES Hypertensation
+42,Male,Non-anginal pain,120,240,ST-T wave abnormality,194,No,YES Hypertensation
+54,Female,Non-anginal pain,135,304,ST-T wave abnormality,170,No,YES Hypertensation
+60,Male,Typical angina,145,282,Normal,142,Yes,No Hypertensation
+34,Male,Asymptomatic,118,182,Normal,174,No,YES Hypertensation
+44,Male,Typical angina,112,290,Normal,153,No,No Hypertensation
+60,Male,Typical angina,125,258,Normal,141,Yes,No Hypertensation
+43,Male,Typical angina,150,247,ST-T wave abnormality,171,No,YES Hypertensation
+52,Male,Asymptomatic,152,298,ST-T wave abnormality,178,No,YES Hypertensation
+70,Male,Typical angina,130,322,Normal,109,No,No Hypertensation
+62,Female,Typical angina,140,394,Normal,157,No,YES Hypertensation
+58,Male,Typical angina,146,218,ST-T wave abnormality,105,No,No Hypertensation
+46,Male,Atypical angina,101,197,ST-T wave abnormality,156,No,YES Hypertensation
+44,Male,Non-anginal pain,140,235,Normal,180,No,YES Hypertensation
+55,Male,Atypical angina,130,262,ST-T wave abnormality,155,No,YES Hypertensation
+43,Male,Typical angina,120,177,Normal,120,Yes,No Hypertensation
+55,Male,Typical angina,132,353,ST-T wave abnormality,132,Yes,No Hypertensation
+40,Male,Asymptomatic,140,199,ST-T wave abnormality,178,Yes,YES Hypertensation
+64,Male,Non-anginal pain,125,309,ST-T wave abnormality,131,Yes,No Hypertensation
+59,Male,Typical angina,164,176,Normal,90,No,No Hypertensation
+61,Female,Typical angina,145,307,Normal,146,Yes,No Hypertensation
+54,Male,Typical angina,122,286,Normal,116,Yes,No Hypertensation
+74,Female,Atypical angina,120,269,Normal,121,Yes,YES Hypertensation
+63,Female,Typical angina,108,269,ST-T wave abnormality,169,Yes,No Hypertensation
+70,Male,Non-anginal pain,160,269,ST-T wave abnormality,112,Yes,No Hypertensation
+63,Female,Typical angina,108,269,ST-T wave abnormality,169,Yes,No Hypertensation
+64,Male,Typical angina,145,212,Normal,132,No,No Hypertensation
+61,Male,Typical angina,148,203,ST-T wave abnormality,161,No,No Hypertensation
+59,Male,Atypical angina,140,221,ST-T wave abnormality,164,Yes,YES Hypertensation
+38,Male,Non-anginal pain,138,175,ST-T wave abnormality,173,No,YES Hypertensation
+58,Male,Atypical angina,120,284,Normal,160,No,No Hypertensation
+63,Female,Atypical angina,140,195,ST-T wave abnormality,179,No,YES Hypertensation
+62,Female,Non-anginal pain,130,263,ST-T wave abnormality,97,No,No Hypertensation
+46,Male,Typical angina,140,311,ST-T wave abnormality,120,Yes,No Hypertensation
+58,Female,Non-anginal pain,120,340,ST-T wave abnormality,172,No,YES Hypertensation
+63,Female,Atypical angina,140,195,ST-T wave abnormality,179,No,YES Hypertensation
+47,Male,Non-anginal pain,130,253,ST-T wave abnormality,179,No,YES Hypertensation
+71,Female,Non-anginal pain,110,265,Normal,130,No,YES Hypertensation
+66,Male,Typical angina,112,212,Normal,132,Yes,No Hypertensation
+42,Male,Typical angina,136,315,ST-T wave abnormality,125,Yes,No Hypertensation
+64,Male,Typical angina,145,212,Normal,132,No,No Hypertensation
+55,Female,Typical angina,180,327,Left ventricular hypertrophy,117,Yes,No Hypertensation
+43,Female,Typical angina,132,341,Normal,136,Yes,No Hypertensation
+55,Female,Typical angina,128,205,Left ventricular hypertrophy,130,Yes,No Hypertensation
+58,Female,Typical angina,170,225,Normal,146,Yes,No Hypertensation
+55,Male,Typical angina,140,217,ST-T wave abnormality,111,Yes,No Hypertensation
+51,Female,Typical angina,130,305,ST-T wave abnormality,142,Yes,No Hypertensation
+50,Female,Non-anginal pain,120,219,ST-T wave abnormality,158,No,YES Hypertensation
+43,Male,Typical angina,115,303,ST-T wave abnormality,181,No,YES Hypertensation
+41,Female,Atypical angina,126,306,ST-T wave abnormality,163,No,YES Hypertensation
+49,Male,Atypical angina,130,266,ST-T wave abnormality,171,No,YES Hypertensation
+65,Male,Typical angina,110,248,Normal,158,No,No Hypertensation
+57,Male,Typical angina,152,274,ST-T wave abnormality,88,Yes,No Hypertensation
+48,Male,Typical angina,130,256,Normal,150,Yes,No Hypertensation
+62,Female,Typical angina,138,294,ST-T wave abnormality,106,No,No Hypertensation
+61,Male,Asymptomatic,134,234,ST-T wave abnormality,145,No,No Hypertensation
+59,Male,Asymptomatic,178,270,Normal,145,No,YES Hypertensation
+69,Male,Non-anginal pain,140,254,Normal,146,No,No Hypertensation
+58,Male,Non-anginal pain,132,224,Normal,173,No,No Hypertensation
+38,Male,Asymptomatic,120,231,ST-T wave abnormality,182,Yes,No Hypertensation
+69,Female,Asymptomatic,140,239,ST-T wave abnormality,151,No,YES Hypertensation
+65,Male,Asymptomatic,138,282,Normal,174,No,No Hypertensation
+45,Male,Asymptomatic,110,264,ST-T wave abnormality,132,No,No Hypertensation
+49,Male,Atypical angina,130,266,ST-T wave abnormality,171,No,YES Hypertensation
+45,Female,Atypical angina,130,234,Normal,175,No,YES Hypertensation
+61,Male,Typical angina,138,166,Normal,125,Yes,No Hypertensation
+52,Male,Typical angina,125,212,ST-T wave abnormality,168,No,No Hypertensation
+53,Female,Typical angina,130,264,Normal,143,No,YES Hypertensation
+59,Female,Typical angina,174,249,ST-T wave abnormality,143,Yes,No Hypertensation
+58,Female,Non-anginal pain,120,340,ST-T wave abnormality,172,No,YES Hypertensation
+65,Male,Asymptomatic,138,282,Normal,174,No,No Hypertensation
+58,Female,Typical angina,130,197,ST-T wave abnormality,131,No,YES Hypertensation
+46,Female,Typical angina,138,243,Normal,152,Yes,YES Hypertensation
+56,Female,Typical angina,134,409,Normal,150,Yes,No Hypertensation
+64,Male,Typical angina,128,263,ST-T wave abnormality,105,Yes,YES Hypertensation
+65,Male,Typical angina,120,177,ST-T wave abnormality,140,No,YES Hypertensation
+44,Male,Non-anginal pain,120,226,ST-T wave abnormality,169,No,YES Hypertensation
+50,Male,Typical angina,150,243,Normal,128,No,No Hypertensation
+47,Male,Non-anginal pain,108,243,ST-T wave abnormality,152,No,No Hypertensation
+64,Female,Typical angina,130,303,ST-T wave abnormality,122,No,YES Hypertensation
+71,Female,Typical angina,112,149,ST-T wave abnormality,125,No,YES Hypertensation
+45,Female,Atypical angina,130,234,Normal,175,No,YES Hypertensation
+62,Male,Typical angina,120,267,ST-T wave abnormality,99,Yes,No Hypertensation
+41,Male,Atypical angina,120,157,ST-T wave abnormality,182,No,YES Hypertensation
+66,Female,Asymptomatic,150,226,ST-T wave abnormality,114,No,YES Hypertensation
+56,Male,Typical angina,130,283,Normal,103,Yes,No Hypertensation
+41,Female,Atypical angina,126,306,ST-T wave abnormality,163,No,YES Hypertensation
+41,Male,Atypical angina,110,235,ST-T wave abnormality,153,No,YES Hypertensation
+57,Female,Atypical angina,130,236,Normal,174,No,No Hypertensation
+39,Female,Non-anginal pain,138,220,ST-T wave abnormality,152,No,YES Hypertensation
+64,Male,Non-anginal pain,125,309,ST-T wave abnormality,131,Yes,No Hypertensation
+59,Male,Typical angina,138,271,Normal,182,No,YES Hypertensation
+61,Male,Typical angina,138,166,Normal,125,Yes,No Hypertensation
+58,Male,Typical angina,114,318,Left ventricular hypertrophy,140,No,No Hypertensation
+47,Male,Typical angina,112,204,ST-T wave abnormality,143,No,YES Hypertensation
+58,Female,Typical angina,100,248,Normal,122,No,YES Hypertensation
+66,Female,Asymptomatic,150,226,ST-T wave abnormality,114,No,YES Hypertensation
+65,Female,Non-anginal pain,140,417,Normal,157,No,YES Hypertensation
+35,Male,Atypical angina,122,192,ST-T wave abnormality,174,No,YES Hypertensation
+57,Male,Atypical angina,124,261,ST-T wave abnormality,141,No,No Hypertensation
+29,Male,Atypical angina,130,204,Normal,202,No,YES Hypertensation
+66,Male,Atypical angina,160,246,ST-T wave abnormality,120,Yes,No Hypertensation
+61,Female,Typical angina,130,330,Normal,169,No,No Hypertensation
+52,Male,Typical angina,125,212,ST-T wave abnormality,168,No,No Hypertensation
+68,Male,Non-anginal pain,118,277,ST-T wave abnormality,151,No,YES Hypertensation
+54,Male,Non-anginal pain,120,258,Normal,147,No,YES Hypertensation
+63,Male,Typical angina,130,330,Normal,132,Yes,No Hypertensation
+58,Male,Typical angina,100,234,ST-T wave abnormality,156,No,No Hypertensation
+60,Male,Typical angina,130,253,ST-T wave abnormality,144,Yes,No Hypertensation
+63,Male,Typical angina,130,254,Normal,147,No,No Hypertensation
+41,Female,Non-anginal pain,112,268,Normal,172,Yes,YES Hypertensation
+68,Male,Non-anginal pain,180,274,Normal,150,Yes,No Hypertensation
+42,Male,Atypical angina,120,295,ST-T wave abnormality,162,No,YES Hypertensation
+59,Male,Typical angina,170,326,Normal,140,Yes,No Hypertensation
+59,Male,Typical angina,164,176,Normal,90,No,No Hypertensation
+43,Male,Typical angina,120,177,Normal,120,Yes,No Hypertensation
+60,Male,Non-anginal pain,140,185,Normal,155,No,No Hypertensation
+63,Female,Typical angina,150,407,Normal,154,No,No Hypertensation
+52,Male,Typical angina,128,204,ST-T wave abnormality,156,Yes,No Hypertensation
+58,Male,Typical angina,125,300,Normal,171,No,No Hypertensation
+56,Female,Typical angina,200,288,Normal,133,Yes,No Hypertensation
+54,Female,Non-anginal pain,135,304,ST-T wave abnormality,170,No,YES Hypertensation
+58,Male,Non-anginal pain,105,240,Normal,154,Yes,YES Hypertensation
+55,Female,Atypical angina,135,250,Normal,161,No,YES Hypertensation
+53,Male,Typical angina,140,203,Normal,155,Yes,No Hypertensation
+63,Female,Atypical angina,140,195,ST-T wave abnormality,179,No,YES Hypertensation
+39,Male,Typical angina,118,219,ST-T wave abnormality,140,No,No Hypertensation
+35,Male,Typical angina,126,282,Normal,156,Yes,No Hypertensation
+50,Female,Non-anginal pain,120,219,ST-T wave abnormality,158,No,YES Hypertensation
+67,Male,Non-anginal pain,152,212,Normal,150,No,No Hypertensation
+66,Male,Typical angina,112,212,Normal,132,Yes,No Hypertensation
+35,Male,Typical angina,126,282,Normal,156,Yes,No Hypertensation
+41,Male,Non-anginal pain,130,214,Normal,168,No,YES Hypertensation
+35,Male,Typical angina,120,198,ST-T wave abnormality,130,Yes,No Hypertensation
+71,Female,Atypical angina,160,302,ST-T wave abnormality,162,No,YES Hypertensation
+57,Male,Typical angina,110,201,ST-T wave abnormality,126,Yes,YES Hypertensation
+51,Male,Non-anginal pain,94,227,ST-T wave abnormality,154,Yes,YES Hypertensation
+58,Male,Typical angina,128,216,Normal,131,Yes,No Hypertensation
+57,Male,Non-anginal pain,128,229,Normal,150,No,No Hypertensation
+56,Female,Atypical angina,140,294,Normal,153,No,YES Hypertensation
+60,Female,Non-anginal pain,120,178,ST-T wave abnormality,96,No,YES Hypertensation
+45,Male,Asymptomatic,110,264,ST-T wave abnormality,132,No,No Hypertensation
+56,Male,Atypical angina,130,221,Normal,163,No,YES Hypertensation
+35,Male,Typical angina,120,198,ST-T wave abnormality,130,Yes,No Hypertensation
+45,Female,Atypical angina,112,160,ST-T wave abnormality,138,No,YES Hypertensation
+66,Female,Asymptomatic,150,226,ST-T wave abnormality,114,No,YES Hypertensation
+51,Male,Asymptomatic,125,213,Normal,125,Yes,YES Hypertensation
+70,Male,Atypical angina,156,245,Normal,143,No,YES Hypertensation
+55,Female,Typical angina,128,205,Left ventricular hypertrophy,130,Yes,No Hypertensation
+56,Male,Non-anginal pain,130,256,Normal,142,Yes,No Hypertensation
+55,Female,Atypical angina,135,250,Normal,161,No,YES Hypertensation
+52,Male,Typical angina,108,233,ST-T wave abnormality,147,No,YES Hypertensation
+64,Male,Non-anginal pain,140,335,ST-T wave abnormality,158,No,No Hypertensation
+45,Male,Typical angina,115,260,Normal,185,No,YES Hypertensation
+67,Female,Non-anginal pain,152,277,ST-T wave abnormality,172,No,YES Hypertensation
+68,Female,Non-anginal pain,120,211,Normal,115,No,YES Hypertensation
+74,Female,Atypical angina,120,269,Normal,121,Yes,YES Hypertensation
+60,Female,Typical angina,150,258,Normal,157,No,No Hypertensation
+48,Male,Typical angina,124,274,Normal,166,No,No Hypertensation
+56,Male,Atypical angina,130,221,Normal,163,No,YES Hypertensation
+46,Male,Typical angina,140,311,ST-T wave abnormality,120,Yes,No Hypertensation
+55,Female,Atypical angina,135,250,Normal,161,No,YES Hypertensation
+44,Male,Atypical angina,120,220,ST-T wave abnormality,170,No,YES Hypertensation
+52,Male,Typical angina,112,230,ST-T wave abnormality,160,No,No Hypertensation
+51,Male,Non-anginal pain,94,227,ST-T wave abnormality,154,Yes,YES Hypertensation
+44,Female,Non-anginal pain,108,141,ST-T wave abnormality,175,No,YES Hypertensation
+52,Male,Typical angina,128,204,ST-T wave abnormality,156,Yes,No Hypertensation
+50,Male,Non-anginal pain,129,196,ST-T wave abnormality,163,No,YES Hypertensation
+59,Male,Typical angina,110,239,Normal,142,Yes,No Hypertensation
+67,Male,Typical angina,120,229,Normal,129,Yes,No Hypertensation
+58,Male,Typical angina,125,300,Normal,171,No,No Hypertensation
+52,Male,Typical angina,128,255,ST-T wave abnormality,161,Yes,No Hypertensation
+44,Male,Non-anginal pain,140,235,Normal,180,No,YES Hypertensation
+41,Female,Non-anginal pain,112,268,Normal,172,Yes,YES Hypertensation
+63,Male,Typical angina,130,330,Normal,132,Yes,No Hypertensation
+58,Male,Atypical angina,125,220,ST-T wave abnormality,144,No,YES Hypertensation
+60,Female,Non-anginal pain,102,318,ST-T wave abnormality,160,No,YES Hypertensation
+51,Male,Non-anginal pain,100,222,ST-T wave abnormality,143,Yes,YES Hypertensation
+64,Male,Non-anginal pain,140,335,ST-T wave abnormality,158,No,No Hypertensation
+60,Male,Typical angina,117,230,ST-T wave abnormality,160,Yes,No Hypertensation
+44,Male,Non-anginal pain,120,226,ST-T wave abnormality,169,No,YES Hypertensation
+58,Male,Atypical angina,125,220,ST-T wave abnormality,144,No,YES Hypertensation
+55,Male,Atypical angina,130,262,ST-T wave abnormality,155,No,YES Hypertensation
+65,Female,Non-anginal pain,160,360,Normal,151,No,YES Hypertensation
+48,Male,Atypical angina,130,245,Normal,180,No,YES Hypertensation
+65,Male,Typical angina,120,177,ST-T wave abnormality,140,No,YES Hypertensation
+51,Female,Non-anginal pain,130,256,Normal,149,No,YES Hypertensation
+48,Male,Non-anginal pain,124,255,ST-T wave abnormality,175,No,YES Hypertensation
+64,Male,Typical angina,120,246,Normal,96,Yes,No Hypertensation
+66,Male,Typical angina,160,228,Normal,138,No,YES Hypertensation
+46,Female,Atypical angina,105,204,ST-T wave abnormality,172,No,YES Hypertensation
+61,Female,Typical angina,130,330,Normal,169,No,No Hypertensation
+57,Male,Typical angina,150,276,Normal,112,Yes,No Hypertensation
+49,Female,Typical angina,130,269,ST-T wave abnormality,163,No,YES Hypertensation
+56,Male,Atypical angina,130,221,Normal,163,No,YES Hypertensation
+58,Female,Asymptomatic,150,283,Normal,162,No,YES Hypertensation
+63,Male,Typical angina,140,187,Normal,144,Yes,No Hypertensation
+57,Male,Typical angina,110,335,ST-T wave abnormality,143,Yes,No Hypertensation
+57,Male,Typical angina,110,335,ST-T wave abnormality,143,Yes,No Hypertensation
+68,Male,Typical angina,144,193,ST-T wave abnormality,141,No,No Hypertensation
+46,Male,Atypical angina,101,197,ST-T wave abnormality,156,No,YES Hypertensation
+71,Female,Non-anginal pain,110,265,Normal,130,No,YES Hypertensation
+41,Male,Atypical angina,135,203,ST-T wave abnormality,132,No,YES Hypertensation
+45,Female,Typical angina,138,236,Normal,152,Yes,YES Hypertensation
+62,Female,Typical angina,150,244,ST-T wave abnormality,154,Yes,No Hypertensation
+65,Female,Typical angina,150,225,Normal,114,No,No Hypertensation
+48,Female,Non-anginal pain,130,275,ST-T wave abnormality,139,No,YES Hypertensation
+51,Male,Non-anginal pain,100,222,ST-T wave abnormality,143,Yes,YES Hypertensation
+61,Female,Typical angina,145,307,Normal,146,Yes,No Hypertensation
+53,Male,Typical angina,123,282,ST-T wave abnormality,95,Yes,No Hypertensation
+59,Male,Asymptomatic,134,204,ST-T wave abnormality,162,No,No Hypertensation
+34,Female,Atypical angina,118,210,ST-T wave abnormality,192,No,YES Hypertensation
+44,Male,Typical angina,120,169,ST-T wave abnormality,144,Yes,No Hypertensation
+58,Male,Typical angina,146,218,ST-T wave abnormality,105,No,No Hypertensation
+64,Female,Typical angina,130,303,ST-T wave abnormality,122,No,YES Hypertensation
+56,Male,Atypical angina,120,240,ST-T wave abnormality,169,No,YES Hypertensation
+54,Male,Non-anginal pain,150,232,Normal,165,No,YES Hypertensation
+55,Male,Typical angina,160,289,Normal,145,Yes,No Hypertensation
+67,Male,Typical angina,125,254,ST-T wave abnormality,163,No,No Hypertensation
+51,Male,Typical angina,140,298,ST-T wave abnormality,122,Yes,No Hypertensation
+62,Female,Typical angina,138,294,ST-T wave abnormality,106,No,No Hypertensation
+62,Male,Atypical angina,120,281,Normal,103,No,No Hypertensation
+54,Male,Typical angina,110,239,ST-T wave abnormality,126,Yes,No Hypertensation
+54,Male,Typical angina,110,239,ST-T wave abnormality,126,Yes,No Hypertensation
+68,Male,Typical angina,144,193,ST-T wave abnormality,141,No,No Hypertensation
+60,Female,Non-anginal pain,120,178,ST-T wave abnormality,96,No,YES Hypertensation
+61,Male,Asymptomatic,134,234,ST-T wave abnormality,145,No,No Hypertensation
+62,Male,Atypical angina,128,208,Normal,140,No,YES Hypertensation
+41,Male,Atypical angina,135,203,ST-T wave abnormality,132,No,YES Hypertensation
+65,Female,Typical angina,150,225,Normal,114,No,No Hypertensation
+59,Male,Asymptomatic,170,288,Normal,159,No,No Hypertensation
+43,Male,Typical angina,115,303,ST-T wave abnormality,181,No,YES Hypertensation
+67,Male,Typical angina,120,229,Normal,129,Yes,No Hypertensation
+63,Male,Asymptomatic,145,233,Normal,150,No,YES Hypertensation
+63,Female,Typical angina,124,197,ST-T wave abnormality,136,Yes,No Hypertensation
+52,Male,Typical angina,112,230,ST-T wave abnormality,160,No,No Hypertensation
+58,Female,Typical angina,130,197,ST-T wave abnormality,131,No,YES Hypertensation
+53,Male,Typical angina,142,226,Normal,111,Yes,YES Hypertensation
+57,Male,Typical angina,150,276,Normal,112,Yes,No Hypertensation
+44,Male,Non-anginal pain,130,233,ST-T wave abnormality,179,Yes,YES Hypertensation
+51,Male,Non-anginal pain,94,227,ST-T wave abnormality,154,Yes,YES Hypertensation
+54,Female,Non-anginal pain,110,214,ST-T wave abnormality,158,No,YES Hypertensation
+40,Male,Typical angina,110,167,Normal,114,Yes,No Hypertensation
+57,Male,Atypical angina,124,261,ST-T wave abnormality,141,No,No Hypertensation
+62,Female,Typical angina,140,268,Normal,160,No,No Hypertensation
+53,Male,Typical angina,140,203,Normal,155,Yes,No Hypertensation
+62,Male,Atypical angina,128,208,Normal,140,No,YES Hypertensation
+58,Male,Non-anginal pain,105,240,Normal,154,Yes,YES Hypertensation
+70,Male,Atypical angina,156,245,Normal,143,No,YES Hypertensation
+45,Male,Typical angina,115,260,Normal,185,No,YES Hypertensation
+42,Male,Asymptomatic,148,244,Normal,178,No,YES Hypertensation
+58,Female,Typical angina,170,225,Normal,146,Yes,No Hypertensation
+61,Male,Typical angina,140,207,Normal,138,Yes,No Hypertensation
+62,Female,Typical angina,140,268,Normal,160,No,No Hypertensation
+60,Male,Typical angina,130,253,ST-T wave abnormality,144,Yes,No Hypertensation
+54,Male,Typical angina,140,239,ST-T wave abnormality,160,No,YES Hypertensation
+61,Male,Typical angina,138,166,Normal,125,Yes,No Hypertensation
+63,Female,Non-anginal pain,135,252,Normal,172,No,YES Hypertensation
+42,Male,Non-anginal pain,130,180,ST-T wave abnormality,150,No,YES Hypertensation
+57,Male,Non-anginal pain,128,229,Normal,150,No,No Hypertensation
+44,Male,Non-anginal pain,130,233,ST-T wave abnormality,179,Yes,YES Hypertensation
+54,Male,Typical angina,124,266,Normal,109,Yes,No Hypertensation
+51,Male,Non-anginal pain,100,222,ST-T wave abnormality,143,Yes,YES Hypertensation
+58,Male,Atypical angina,125,220,ST-T wave abnormality,144,No,YES Hypertensation
+68,Male,Non-anginal pain,118,277,ST-T wave abnormality,151,No,YES Hypertensation
+55,Male,Typical angina,140,217,ST-T wave abnormality,111,Yes,No Hypertensation
+42,Male,Typical angina,136,315,ST-T wave abnormality,125,Yes,No Hypertensation
+49,Male,Non-anginal pain,118,149,Normal,126,No,No Hypertensation
+53,Female,Typical angina,138,234,Normal,160,No,YES Hypertensation
+52,Male,Non-anginal pain,172,199,ST-T wave abnormality,162,No,YES Hypertensation
+51,Male,Asymptomatic,125,213,Normal,125,Yes,YES Hypertensation
+51,Male,Typical angina,140,261,Normal,186,Yes,YES Hypertensation
+70,Male,Typical angina,145,174,ST-T wave abnormality,125,Yes,No Hypertensation
+35,Female,Typical angina,138,183,ST-T wave abnormality,182,No,YES Hypertensation
+58,Male,Non-anginal pain,112,230,Normal,165,No,No Hypertensation
+59,Male,Asymptomatic,160,273,Normal,125,No,No Hypertensation
+60,Male,Typical angina,140,293,Normal,170,No,No Hypertensation
+56,Male,Typical angina,132,184,Normal,105,Yes,No Hypertensation
+35,Female,Typical angina,138,183,ST-T wave abnormality,182,No,YES Hypertensation
+61,Male,Typical angina,138,166,Normal,125,Yes,No Hypertensation
+58,Female,Asymptomatic,150,283,Normal,162,No,YES Hypertensation
+52,Male,Typical angina,128,255,ST-T wave abnormality,161,Yes,No Hypertensation
+58,Male,Atypical angina,120,284,Normal,160,No,No Hypertensation
+37,Male,Non-anginal pain,130,250,ST-T wave abnormality,187,No,YES Hypertensation
+52,Male,Typical angina,128,255,ST-T wave abnormality,161,Yes,No Hypertensation
+67,Male,Typical angina,120,229,Normal,129,Yes,No Hypertensation
+65,Male,Asymptomatic,138,282,Normal,174,No,No Hypertensation
+46,Male,Atypical angina,101,197,ST-T wave abnormality,156,No,YES Hypertensation
+68,Female,Non-anginal pain,120,211,Normal,115,No,YES Hypertensation
+43,Male,Typical angina,115,303,ST-T wave abnormality,181,No,YES Hypertensation
+68,Female,Non-anginal pain,120,211,Normal,115,No,YES Hypertensation
+51,Male,Typical angina,140,299,ST-T wave abnormality,173,Yes,No Hypertensation
+52,Male,Typical angina,112,230,ST-T wave abnormality,160,No,No Hypertensation
+64,Male,Non-anginal pain,140,335,ST-T wave abnormality,158,No,No Hypertensation
+59,Male,Asymptomatic,170,288,Normal,159,No,No Hypertensation
+52,Male,Typical angina,125,212,ST-T wave abnormality,168,No,No Hypertensation
+59,Male,Asymptomatic,160,273,Normal,125,No,No Hypertensation
+60,Female,Asymptomatic,150,240,ST-T wave abnormality,171,No,YES Hypertensation
+41,Male,Non-anginal pain,112,250,ST-T wave abnormality,179,No,YES Hypertensation
+41,Male,Atypical angina,110,235,ST-T wave abnormality,153,No,YES Hypertensation
+56,Male,Atypical angina,120,240,ST-T wave abnormality,169,No,YES Hypertensation
+56,Male,Atypical angina,120,236,ST-T wave abnormality,178,No,YES Hypertensation
+48,Female,Non-anginal pain,130,275,ST-T wave abnormality,139,No,YES Hypertensation
+39,Male,Non-anginal pain,140,321,Normal,182,No,YES Hypertensation
+64,Male,Asymptomatic,170,227,Normal,155,No,YES Hypertensation
+57,Male,Typical angina,140,192,ST-T wave abnormality,148,No,YES Hypertensation
+59,Male,Asymptomatic,160,273,Normal,125,No,No Hypertensation
+60,Male,Typical angina,130,206,Normal,132,Yes,No Hypertensation
+61,Male,Typical angina,140,207,Normal,138,Yes,No Hypertensation
+43,Female,Non-anginal pain,122,213,ST-T wave abnormality,165,No,YES Hypertensation
+54,Male,Typical angina,120,188,ST-T wave abnormality,113,No,No Hypertensation
+59,Male,Typical angina,138,271,Normal,182,No,YES Hypertensation
+57,Male,Typical angina,132,207,ST-T wave abnormality,168,Yes,YES Hypertensation
+57,Male,Atypical angina,154,232,Normal,164,No,No Hypertensation
+57,Male,Typical angina,130,131,ST-T wave abnormality,115,Yes,No Hypertensation
+48,Male,Typical angina,124,274,Normal,166,No,No Hypertensation
+70,Male,Typical angina,145,174,ST-T wave abnormality,125,Yes,No Hypertensation
+57,Male,Typical angina,165,289,Normal,124,No,No Hypertensation
+61,Male,Typical angina,120,260,ST-T wave abnormality,140,Yes,No Hypertensation
+57,Male,Typical angina,110,201,ST-T wave abnormality,126,Yes,YES Hypertensation
+60,Female,Typical angina,150,258,Normal,157,No,No Hypertensation
+63,Female,Typical angina,150,407,Normal,154,No,No Hypertensation
+55,Female,Typical angina,128,205,Left ventricular hypertrophy,130,Yes,No Hypertensation
+64,Female,Typical angina,180,325,ST-T wave abnormality,154,Yes,YES Hypertensation
+54,Male,Typical angina,110,239,ST-T wave abnormality,126,Yes,No Hypertensation
+52,Male,Typical angina,128,204,ST-T wave abnormality,156,Yes,No Hypertensation
+51,Male,Typical angina,140,299,ST-T wave abnormality,173,Yes,No Hypertensation
+62,Female,Non-anginal pain,130,263,ST-T wave abnormality,97,No,No Hypertensation
+59,Male,Asymptomatic,178,270,Normal,145,No,YES Hypertensation
+52,Male,Atypical angina,134,201,ST-T wave abnormality,158,No,YES Hypertensation
+42,Female,Typical angina,102,265,Normal,122,No,YES Hypertensation
+59,Male,Typical angina,135,234,ST-T wave abnormality,161,No,YES Hypertensation
+61,Male,Asymptomatic,134,234,ST-T wave abnormality,145,No,No Hypertensation
+42,Female,Typical angina,102,265,Normal,122,No,YES Hypertensation
+62,Female,Typical angina,140,268,Normal,160,No,No Hypertensation
+59,Male,Non-anginal pain,126,218,ST-T wave abnormality,134,No,No Hypertensation
+55,Male,Atypical angina,130,262,ST-T wave abnormality,155,No,YES Hypertensation
+64,Male,Typical angina,120,246,Normal,96,Yes,No Hypertensation
+42,Male,Typical angina,140,226,ST-T wave abnormality,178,No,YES Hypertensation
+50,Female,Atypical angina,120,244,ST-T wave abnormality,162,No,YES Hypertensation
+62,Male,Typical angina,120,267,ST-T wave abnormality,99,Yes,No Hypertensation
+50,Male,Typical angina,144,200,Normal,126,Yes,No Hypertensation
+50,Male,Non-anginal pain,140,233,ST-T wave abnormality,163,No,No Hypertensation
+58,Female,Atypical angina,136,319,Normal,152,No,No Hypertensation
+35,Male,Typical angina,120,198,ST-T wave abnormality,130,Yes,No Hypertensation
+45,Male,Typical angina,104,208,Normal,148,Yes,YES Hypertensation
+66,Male,Typical angina,112,212,Normal,132,Yes,No Hypertensation
+46,Male,Typical angina,120,249,Normal,144,No,No Hypertensation
+65,Male,Typical angina,135,254,Normal,127,No,No Hypertensation
+47,Male,Non-anginal pain,130,253,ST-T wave abnormality,179,No,YES Hypertensation
+59,Male,Asymptomatic,134,204,ST-T wave abnormality,162,No,No Hypertensation
+38,Male,Asymptomatic,120,231,ST-T wave abnormality,182,Yes,No Hypertensation
+39,Male,Typical angina,118,219,ST-T wave abnormality,140,No,No Hypertensation
+58,Male,Typical angina,146,218,ST-T wave abnormality,105,No,No Hypertensation
+44,Male,Atypical angina,120,263,ST-T wave abnormality,173,No,YES Hypertensation
+54,Male,Typical angina,140,239,ST-T wave abnormality,160,No,YES Hypertensation
+61,Female,Typical angina,130,330,Normal,169,No,No Hypertensation
+57,Male,Typical angina,130,131,ST-T wave abnormality,115,Yes,No Hypertensation
+54,Male,Typical angina,110,206,Normal,108,Yes,No Hypertensation
+42,Male,Non-anginal pain,120,240,ST-T wave abnormality,194,No,YES Hypertensation
+54,Male,Typical angina,124,266,Normal,109,Yes,No Hypertensation
+60,Male,Typical angina,130,206,Normal,132,Yes,No Hypertensation
+65,Male,Typical angina,135,254,Normal,127,No,No Hypertensation
+40,Male,Typical angina,152,223,ST-T wave abnormality,181,No,No Hypertensation
+51,Female,Non-anginal pain,140,308,Normal,142,No,YES Hypertensation
+38,Male,Asymptomatic,120,231,ST-T wave abnormality,182,Yes,No Hypertensation
+42,Male,Non-anginal pain,130,180,ST-T wave abnormality,150,No,YES Hypertensation
+56,Male,Atypical angina,120,240,ST-T wave abnormality,169,No,YES Hypertensation
+43,Male,Non-anginal pain,130,315,ST-T wave abnormality,162,No,YES Hypertensation
+64,Male,Non-anginal pain,140,335,ST-T wave abnormality,158,No,No Hypertensation
+53,Male,Typical angina,142,226,Normal,111,Yes,YES Hypertensation
+49,Female,Atypical angina,134,271,ST-T wave abnormality,162,No,YES Hypertensation
+57,Female,Typical angina,140,241,ST-T wave abnormality,123,Yes,No Hypertensation
+52,Female,Non-anginal pain,136,196,Normal,169,No,YES Hypertensation
+69,Female,Asymptomatic,140,239,ST-T wave abnormality,151,No,YES Hypertensation
+65,Male,Typical angina,120,177,ST-T wave abnormality,140,No,YES Hypertensation
+66,Female,Typical angina,178,228,ST-T wave abnormality,165,Yes,No Hypertensation
+56,Male,Asymptomatic,120,193,Normal,162,No,YES Hypertensation
+67,Female,Non-anginal pain,152,277,ST-T wave abnormality,172,No,YES Hypertensation
+54,Female,Non-anginal pain,160,201,ST-T wave abnormality,163,No,YES Hypertensation
+70,Male,Typical angina,145,174,ST-T wave abnormality,125,Yes,No Hypertensation
+57,Male,Typical angina,132,207,ST-T wave abnormality,168,Yes,YES Hypertensation
+67,Male,Typical angina,160,286,Normal,108,Yes,No Hypertensation
+62,Female,Non-anginal pain,130,263,ST-T wave abnormality,97,No,No Hypertensation
+54,Female,Non-anginal pain,135,304,ST-T wave abnormality,170,No,YES Hypertensation
+45,Female,Typical angina,138,236,Normal,152,Yes,YES Hypertensation
+53,Female,Typical angina,130,264,Normal,143,No,YES Hypertensation
+62,Male,Non-anginal pain,130,231,ST-T wave abnormality,146,No,YES Hypertensation
+49,Female,Typical angina,130,269,ST-T wave abnormality,163,No,YES Hypertensation
+50,Male,Non-anginal pain,140,233,ST-T wave abnormality,163,No,No Hypertensation
+65,Female,Non-anginal pain,140,417,Normal,157,No,YES Hypertensation
+69,Female,Asymptomatic,140,239,ST-T wave abnormality,151,No,YES Hypertensation
+52,Female,Non-anginal pain,136,196,Normal,169,No,YES Hypertensation
+58,Female,Typical angina,100,248,Normal,122,No,YES Hypertensation
+52,Male,Typical angina,108,233,ST-T wave abnormality,147,No,YES Hypertensation
+57,Female,Typical angina,140,241,ST-T wave abnormality,123,Yes,No Hypertensation
+44,Female,Non-anginal pain,108,141,ST-T wave abnormality,175,No,YES Hypertensation
+76,Female,Non-anginal pain,140,197,Left ventricular hypertrophy,116,No,YES Hypertensation
+58,Male,Typical angina,128,259,Normal,130,Yes,No Hypertensation
+60,Female,Non-anginal pain,120,178,ST-T wave abnormality,96,No,YES Hypertensation
+53,Male,Typical angina,140,203,Normal,155,Yes,No Hypertensation
+52,Male,Atypical angina,120,325,ST-T wave abnormality,172,No,YES Hypertensation
+38,Male,Non-anginal pain,138,175,ST-T wave abnormality,173,No,YES Hypertensation
+52,Male,Non-anginal pain,172,199,ST-T wave abnormality,162,No,YES Hypertensation
+52,Male,Asymptomatic,118,186,Normal,190,No,YES Hypertensation
+51,Male,Non-anginal pain,125,245,Normal,166,No,YES Hypertensation
+43,Male,Typical angina,110,211,ST-T wave abnormality,161,No,YES Hypertensation
+39,Male,Typical angina,118,219,ST-T wave abnormality,140,No,No Hypertensation
+63,Female,Typical angina,108,269,ST-T wave abnormality,169,Yes,No Hypertensation
+52,Male,Atypical angina,128,205,ST-T wave abnormality,184,No,YES Hypertensation
+44,Male,Typical angina,110,197,Normal,177,No,No Hypertensation
+45,Male,Typical angina,142,309,Normal,147,Yes,No Hypertensation
+57,Male,Typical angina,140,192,ST-T wave abnormality,148,No,YES Hypertensation
+39,Male,Typical angina,118,219,ST-T wave abnormality,140,No,No Hypertensation
+67,Female,Typical angina,106,223,ST-T wave abnormality,142,No,YES Hypertensation
+64,Male,Typical angina,128,263,ST-T wave abnormality,105,Yes,YES Hypertensation
+59,Male,Typical angina,135,234,ST-T wave abnormality,161,No,YES Hypertensation
+62,Male,Non-anginal pain,130,231,ST-T wave abnormality,146,No,YES Hypertensation
+55,Female,Typical angina,180,327,Left ventricular hypertrophy,117,Yes,No Hypertensation
+57,Male,Atypical angina,154,232,Normal,164,No,No Hypertensation
+60,Male,Typical angina,140,293,Normal,170,No,No Hypertensation
+71,Female,Atypical angina,160,302,ST-T wave abnormality,162,No,YES Hypertensation
+56,Male,Atypical angina,120,236,ST-T wave abnormality,178,No,YES Hypertensation
+60,Male,Typical angina,117,230,ST-T wave abnormality,160,Yes,No Hypertensation
+50,Female,Typical angina,110,254,Normal,159,No,YES Hypertensation
+43,Male,Typical angina,132,247,Normal,143,Yes,No Hypertensation
+59,Male,Typical angina,110,239,Normal,142,Yes,No Hypertensation
+44,Male,Atypical angina,120,263,ST-T wave abnormality,173,No,YES Hypertensation
+56,Female,Typical angina,134,409,Normal,150,Yes,No Hypertensation
+54,Male,Typical angina,120,188,ST-T wave abnormality,113,No,No Hypertensation
+42,Male,Typical angina,136,315,ST-T wave abnormality,125,Yes,No Hypertensation
+67,Male,Typical angina,125,254,ST-T wave abnormality,163,No,No Hypertensation
+64,Male,Typical angina,145,212,Normal,132,No,No Hypertensation
+42,Male,Typical angina,140,226,ST-T wave abnormality,178,No,YES Hypertensation
+66,Male,Typical angina,112,212,Normal,132,Yes,No Hypertensation
+52,Male,Typical angina,108,233,ST-T wave abnormality,147,No,YES Hypertensation
+51,Female,Non-anginal pain,140,308,Normal,142,No,YES Hypertensation
+55,Female,Typical angina,128,205,Left ventricular hypertrophy,130,Yes,No Hypertensation
+58,Male,Non-anginal pain,140,211,Normal,165,No,YES Hypertensation
+56,Male,Asymptomatic,120,193,Normal,162,No,YES Hypertensation
+42,Male,Atypical angina,120,295,ST-T wave abnormality,162,No,YES Hypertensation
+40,Male,Typical angina,152,223,ST-T wave abnormality,181,No,No Hypertensation
+51,Male,Typical angina,140,299,ST-T wave abnormality,173,Yes,No Hypertensation
+45,Male,Atypical angina,128,308,Normal,170,No,YES Hypertensation
+48,Male,Atypical angina,110,229,ST-T wave abnormality,168,No,No Hypertensation
+58,Male,Typical angina,114,318,Left ventricular hypertrophy,140,No,No Hypertensation
+44,Female,Non-anginal pain,108,141,ST-T wave abnormality,175,No,YES Hypertensation
+58,Male,Typical angina,128,216,Normal,131,Yes,No Hypertensation
+65,Male,Asymptomatic,138,282,Normal,174,No,No Hypertensation
+53,Male,Typical angina,123,282,ST-T wave abnormality,95,Yes,No Hypertensation
+41,Male,Typical angina,110,172,Normal,158,No,No Hypertensation
+47,Male,Typical angina,112,204,ST-T wave abnormality,143,No,YES Hypertensation
+59,Male,Atypical angina,140,221,ST-T wave abnormality,164,Yes,YES Hypertensation
+60,Male,Typical angina,125,258,Normal,141,Yes,No Hypertensation
+47,Male,Typical angina,110,275,Normal,118,Yes,No Hypertensation
+50,Female,Typical angina,110,254,Normal,159,No,YES Hypertensation
+54,Male,Typical angina,120,188,ST-T wave abnormality,113,No,No Hypertensation
